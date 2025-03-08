@@ -1,6 +1,6 @@
 # Personal Professional Card Astro
 
-"Hi there!, I'm Brian. I hope this small template helps you gain visibility while you build great projects. Thank you for using it. I wish you success in everything you set out to do; you will surely achieve great things.
+"Hi there!, I'm Shams. I hope this small template helps you gain visibility while you build great projects. Thank you for using it. I wish you success in everything you set out to do; you will surely achieve great things.
 
 You can help me by following me, giving a Star to the template, and sharing it so others can see and use it.
 
@@ -99,7 +99,7 @@ Make sure you have the following installed on your machine:
 1. **Clone the Template Repository**
 
     ```bash
-    https://github.com/alcarazbrian/professional-card-astro.git
+    https://github.com/shamshuddinmgm/professional-card-astro_portfolio.git
     cd professional-card-astro
     ```
 
@@ -185,4 +185,4 @@ Feel free to check [Astro documentation](https://docs.astro.build) or jump into 
 
 ## Contact
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alcarazbrian)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamshuddin-mgm-ba95381a7)
